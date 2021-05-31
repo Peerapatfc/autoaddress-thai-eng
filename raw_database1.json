@@ -17467,7 +17467,7 @@
         "district_code": "500511",
         "amphoe_code": "5005",
         "province_code": "50",
-        "district_en": "Mae Hoi Ngoen\t",
+        "district_en": "Mae Hoi Ngoen",
         "amphoe_en": "Doi Saket",
         "province_en": "Chiang Mai"
     },
@@ -17959,7 +17959,7 @@
         "district_code": "500113",
         "amphoe_code": "5001",
         "province_code": "50",
-        "district_en": "Nong Pa Khrang\t",
+        "district_en": "Nong Pa Khrang",
         "amphoe_en": "Mueang Chiang Mai",
         "province_en": "Chiang Mai"
     },
@@ -34509,7 +34509,7 @@
         "province_code": "97",
         "district_en": "Sang",
         "amphoe_en": "Seka",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "เซกา",
@@ -34521,7 +34521,7 @@
         "province_code": "97",
         "district_en": "Se Ka",
         "amphoe_en": "Seka",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ท่ากกแดง",
@@ -34533,7 +34533,7 @@
         "province_code": "97",
         "district_en": "Tha Kok Daeng",
         "amphoe_en": "Seka",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ท่าสะอาด",
@@ -34545,7 +34545,7 @@
         "province_code": "97",
         "district_en": "Ta Sa-ad",
         "amphoe_en": "Seka",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "น้ำจั้น",
@@ -34557,7 +34557,7 @@
         "province_code": "97",
         "district_en": "Nam Chan",
         "amphoe_en": "Seka",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "บ้านต้อง",
@@ -34569,7 +34569,7 @@
         "province_code": "97",
         "district_en": "Ban Tong",
         "amphoe_en": "Seka",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ป่งไฮ",
@@ -34581,7 +34581,7 @@
         "province_code": "97",
         "district_en": "Pong Hai",
         "amphoe_en": "Seka",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "โสกก่าม",
@@ -34593,7 +34593,7 @@
         "province_code": "97",
         "district_en": "Sok Karm",
         "amphoe_en": "Seka",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "หนองทุ่ม",
@@ -34605,7 +34605,7 @@
         "province_code": "97",
         "district_en": "Nong Tum",
         "amphoe_en": "Seka",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "คำแก้ว",
@@ -34617,7 +34617,7 @@
         "province_code": "97",
         "district_en": "Kham Kaeo",
         "amphoe_en": "So Phisai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "โซ่",
@@ -34629,7 +34629,7 @@
         "province_code": "97",
         "district_en": "So",
         "amphoe_en": "So Phisai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ถ้ำเจริญ",
@@ -34641,7 +34641,7 @@
         "province_code": "97",
         "district_en": "Tham Charoen",
         "amphoe_en": "So Phisai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "บัวตูม",
@@ -34653,7 +34653,7 @@
         "province_code": "97",
         "district_en": "Bua Toom",
         "amphoe_en": "So Phisai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ศรีชมภู",
@@ -34665,7 +34665,7 @@
         "province_code": "97",
         "district_en": "Si Chomphu",
         "amphoe_en": "So Phisai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "หนองพันทา",
@@ -34677,7 +34677,7 @@
         "province_code": "97",
         "district_en": "Nong Phan Tha",
         "amphoe_en": "So Phisai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "เหล่าทอง",
@@ -34689,7 +34689,7 @@
         "province_code": "97",
         "district_en": "Lao Thong",
         "amphoe_en": "So Phisai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ดงบัง",
@@ -34701,7 +34701,7 @@
         "province_code": "97",
         "district_en": "Dong Bang",
         "amphoe_en": "Bueng Khong Long",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ท่าดอกคำ",
@@ -34713,7 +34713,7 @@
         "province_code": "97",
         "district_en": "Tha Dok Kham",
         "amphoe_en": "Bueng Khong Long",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "บึงโขงหลง",
@@ -34725,7 +34725,7 @@
         "province_code": "97",
         "district_en": "Bueng Khong Long",
         "amphoe_en": "Bueng Khong Long",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "โพธิ์หมากแข้ง",
@@ -34737,7 +34737,7 @@
         "province_code": "97",
         "district_en": "Pho Mak Khaeng",
         "amphoe_en": "Bueng Khong Long",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "โคกกว้าง",
@@ -34749,7 +34749,7 @@
         "province_code": "97",
         "district_en": "Khok Kwang",
         "amphoe_en": "Bung Khla",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "บุ่งคล้า",
@@ -34761,7 +34761,7 @@
         "province_code": "97",
         "district_en": "Bung Kla",
         "amphoe_en": "Bung Khla",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "หนองเดิ่น",
@@ -34773,7 +34773,7 @@
         "province_code": "97",
         "district_en": "Nong Doen",
         "amphoe_en": "Bung Khla",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "นากั้ง",
@@ -34785,7 +34785,7 @@
         "province_code": "97",
         "district_en": "Na Kang",
         "amphoe_en": "Pak Khat",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "นาดง",
@@ -34797,7 +34797,7 @@
         "province_code": "97",
         "district_en": "Na Dong",
         "amphoe_en": "Pak Khat",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "โนนศิลา",
@@ -34809,7 +34809,7 @@
         "province_code": "97",
         "district_en": "Non Sila",
         "amphoe_en": "Pak Khat",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ปากคาด",
@@ -34821,7 +34821,7 @@
         "province_code": "97",
         "district_en": "Pak Khat",
         "amphoe_en": "Pak Khat",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "สมสนุก",
@@ -34833,7 +34833,7 @@
         "province_code": "97",
         "district_en": "Som Sanuk",
         "amphoe_en": "Pak Khat",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "หนองยอง",
@@ -34845,7 +34845,7 @@
         "province_code": "97",
         "district_en": "Nong Yong",
         "amphoe_en": "Pak Khat",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ดอนหญ้านาง",
@@ -34857,7 +34857,7 @@
         "province_code": "97",
         "district_en": "Don Ya Nang",
         "amphoe_en": "Phon Charoen",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ป่าแฝก",
@@ -34869,7 +34869,7 @@
         "province_code": "97",
         "district_en": "Pha Faek",
         "amphoe_en": "Phon Charoen",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "พรเจริญ",
@@ -34881,7 +34881,7 @@
         "province_code": "97",
         "district_en": "Porn Charoen",
         "amphoe_en": "Phon Charoen",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "วังชมภู",
@@ -34893,7 +34893,7 @@
         "province_code": "97",
         "district_en": "Wang Chom Phu",
         "amphoe_en": "Phon Charoen",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ศรีชมภู",
@@ -34905,7 +34905,7 @@
         "province_code": "97",
         "district_en": "Si Chomphu",
         "amphoe_en": "Phon Charoen",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ศรีสำราญ",
@@ -34917,7 +34917,7 @@
         "province_code": "97",
         "district_en": "Si Samran",
         "amphoe_en": "Phon Charoen",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "หนองหัวช้าง",
@@ -34929,7 +34929,7 @@
         "province_code": "97",
         "district_en": "Nong Hua Chang",
         "amphoe_en": "Phon Charoen",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "คำนาดี",
@@ -34941,7 +34941,7 @@
         "province_code": "97",
         "district_en": "Kham Na Di",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "โคกก่อง",
@@ -34953,7 +34953,7 @@
         "province_code": "97",
         "district_en": "Khok Kong",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ไคสี",
@@ -34965,7 +34965,7 @@
         "province_code": "97",
         "district_en": "Khai Si",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ชัยพร",
@@ -34977,7 +34977,7 @@
         "province_code": "97",
         "district_en": "Chai Porn",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "นาสวรรค์",
@@ -34989,7 +34989,7 @@
         "province_code": "97",
         "district_en": "Na Sawan",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "โนนสมบูรณ์",
@@ -35001,7 +35001,7 @@
         "province_code": "97",
         "district_en": "Non Somboon",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "โนนสว่าง",
@@ -35013,7 +35013,7 @@
         "province_code": "97",
         "district_en": "Non Sawang",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "บึงกาฬ",
@@ -35025,7 +35025,7 @@
         "province_code": "97",
         "district_en": "Bueng Kan",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "โป่งเปือย",
@@ -35037,7 +35037,7 @@
         "province_code": "97",
         "district_en": "Pong Puai",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "วิศิษฐ์",
@@ -35049,7 +35049,7 @@
         "province_code": "97",
         "district_en": "Wisit",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "หนองเลิง",
@@ -35061,7 +35061,7 @@
         "province_code": "97",
         "district_en": "Nong Loeng",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "หอคำ",
@@ -35073,7 +35073,7 @@
         "province_code": "97",
         "district_en": "Ho Kham",
         "amphoe_en": "Mueang Bueng Kan",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ชุมภูพร",
@@ -35085,7 +35085,7 @@
         "province_code": "97",
         "district_en": "Chumphu Phon",
         "amphoe_en": "Si Wilai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "นาสะแบง",
@@ -35097,7 +35097,7 @@
         "province_code": "97",
         "district_en": "Na Sa Baeng",
         "amphoe_en": "Si Wilai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "นาสิงห์",
@@ -35109,7 +35109,7 @@
         "province_code": "97",
         "district_en": "Na Sing",
         "amphoe_en": "Si Wilai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "นาแสง",
@@ -35121,7 +35121,7 @@
         "province_code": "97",
         "district_en": "Na Saeng",
         "amphoe_en": "Si Wilai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "ศรีวิไล",
@@ -35133,7 +35133,7 @@
         "province_code": "97",
         "district_en": "Si Wilai",
         "amphoe_en": "Si Wilai",
-        "province_en": "buogkan"
+        "province_en": "Bueng Kan"
     },
     {
         "district": "กระสัง",
@@ -53143,7 +53143,7 @@
         "district_code": "490505",
         "amphoe_code": "4905",
         "province_code": "49",
-        "district_en": "(Nong Ian",
+        "district_en": "Nong Ian",
         "amphoe_en": "Khamcha-i",
         "province_en": "Mukdahan"
     },
